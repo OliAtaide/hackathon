@@ -49,6 +49,7 @@ export default {
 
 .bg{
   padding: 10em;
+  overflow-x: hidden;
 }
 @media only screen and (max-width: 600px) {
   .bg {

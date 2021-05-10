@@ -98,6 +98,14 @@ export default {};
 </script>
 
 <style scoped>
+@media only screen and (max-width: 600px) {
+  .fases{
+    width: 100% !important;
+  }
+  .fase{
+    margin: 5em 0 5em 0 !important;
+  }
+}
 .bg{
   background-image: url("~@/assets/network.png");
   background-size: contain;

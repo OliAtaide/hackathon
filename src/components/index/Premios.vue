@@ -1,7 +1,7 @@
 <template>
   <div class="bg d-flex flex-column">
       <h1>PREMIOS INCRIVEIS</h1>
-      <img class="align-self-center" src="@/assets/trophys.png" alt="">
+      <img class="align-self-center img-fluid" src="@/assets/trophies.png" alt="">
   </div>
 </template>
 

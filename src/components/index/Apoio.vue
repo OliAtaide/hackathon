@@ -94,6 +94,9 @@ export default {};
   .col2{
     margin-left: 0 !important;
   }
+  h1{
+    font-size: 2em !important;
+  }
 }
 .bg {
   background-color: white;

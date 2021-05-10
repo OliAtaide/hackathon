@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark shadow-lg">
     <div class="container-fluid">
       <a href="" class="navbar-brand">
-        <img src="@/assets/navbar-logo.png" alt="">
+        <img src="@/assets/hackathon-logo.png" alt="">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

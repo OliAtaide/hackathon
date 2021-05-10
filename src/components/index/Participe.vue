@@ -1,5 +1,5 @@
 <template>
-  <div class="bg row">
+  <div class="bg row d-flex">
     <div class="col">
       <h1>PARTICIPE!</h1>
       <h4>Fique ligado(a) nas regras</h4>
@@ -21,8 +21,8 @@
       <a href=""><i class="fab fa-instagram"></i></a>
       <a href=""><i class="fab fa-facebook-f"></i></a>
     </div>
-    <div class="col">
-        <img src="@/assets/rocket.png" alt="">
+    <div class="col align-items-center d-flex flex-column">
+      <img src="@/assets/rocket.png" alt="">
       <button class="button">QUERO PARTICIPAR</button>
     </div>
   </div>
